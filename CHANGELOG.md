@@ -6,7 +6,24 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [Unreleased]
 
-[Unreleased]: https://github.com/GitbookIO/slate-edit-list/compare/0.10.0...HEAD
+[Unreleased]: https://github.com/GitbookIO/slate-edit-list/compare/0.11.0...HEAD
+
+## 0.11.2 - 2018-02-06
+## 0.11.1 - 2018-02-06
+
+- Fixed build
+
+## 0.11.0 - 2018-02-05
+
+- Upgrade to be compatible with Slate 0.32.x
+
+## 0.10.3 - 2018-02-05
+
+- Fix: delete selection while pressing Enter in a list
+
+## 0.10.2 - 2018-01-09
+
+- Wider slate peer dependency range
 
 ## 0.10.1 - 2017-11-08
 
